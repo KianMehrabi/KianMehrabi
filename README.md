@@ -8,4 +8,4 @@
 - 👯 I’m looking to collaborate on any projects than are using c++ , javascript and python
 - 🤔 I’m looking for help with any of not complete projects
 - 💬 Ask me about ...
-- 📫 How to reach me with email and github
+- 📫 How to reach me with github
